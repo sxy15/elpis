@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint --quiet --fix --ext js,vue ."
+    "lint": "eslint --quiet --fix --ext js,vue .",
+    "dev": "_ENV='local' nodemon index.js",
+    "beta": "_ENV='beta' nodemon index.js",
+    "prod": "_ENV='production' nodemon index.js"
   },
   "keywords": [],
   "author": "",
