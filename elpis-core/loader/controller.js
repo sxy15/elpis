@@ -37,5 +37,5 @@ module.exports = app => {
         }
     })
 
-    app.controllers = controllers
+    app.controller = controllers
 }
