@@ -13,3 +13,603 @@
 [2025-07-25T18:29:51.445] [INFO] default - [ { name: '智能机器人', desc: '机器人项目' }, { name: '可视化低代码', desc: '低代码项目' } ]
 [2025-07-25T18:30:00.250] [INFO] default - [GET /api/project/list] signature: 05ba932d4ee481fb479f916859d3e103
 [2025-07-25T18:30:00.250] [INFO] default - [ { name: '智能机器人', desc: '机器人项目' }, { name: '可视化低代码', desc: '低代码项目' } ]
+[2025-07-25T20:07:44.533] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.534] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.534] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:44.540] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.541] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.541] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:44.544] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.544] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.544] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:44.548] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.548] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.548] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:44.553] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.553] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.553] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:44.556] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.557] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.557] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:44.560] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.560] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.560] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:44.563] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.563] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.563] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:44.566] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.566] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.566] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:44.570] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.570] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.570] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:44.573] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.573] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.573] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:44.584] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.585] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.585] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:44.592] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.592] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.592] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:44.606] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.607] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.607] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:44.613] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.613] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.613] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:44.616] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.616] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.616] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:44.620] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.620] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.620] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:44.625] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.625] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.625] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:44.629] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.629] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.629] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:44.632] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.633] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:44.633] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:45.698] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.698] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.701] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:45.711] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.711] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.712] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:45.718] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.719] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.719] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:45.723] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.723] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.723] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:45.728] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.728] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.728] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:45.731] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.731] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.731] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:45.743] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.743] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.743] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:45.749] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.749] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.749] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:45.754] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.754] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.755] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:45.760] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.760] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.760] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:45.766] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.768] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.768] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:45.773] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.773] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.773] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:45.777] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.777] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.777] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:45.784] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.784] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.784] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:45.787] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.787] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.788] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:45.793] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.793] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.794] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:45.797] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.798] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.798] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:45.803] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.804] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.804] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:45.807] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.807] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.807] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:45.811] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.811] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:45.811] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:50.857] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.861] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.862] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:50.876] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.876] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.876] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:50.881] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.884] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.884] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:50.889] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.889] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.889] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:50.896] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.896] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.896] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:50.900] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.900] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.900] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:50.904] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.904] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.904] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:50.907] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.907] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.907] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:50.910] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.910] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.910] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:50.913] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.914] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.914] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:50.917] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.917] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.917] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:50.922] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.922] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.922] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:50.927] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.927] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.927] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:50.930] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.930] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.930] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:50.934] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.934] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.934] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:50.937] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.937] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.937] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:50.941] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.941] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.941] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:50.947] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.947] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.947] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:50.951] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.951] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.952] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:07:50.964] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.964] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:07:50.964] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:08:03.653] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.664] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.664] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:08:03.672] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.672] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.672] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:08:03.676] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.676] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.676] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:08:03.680] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.681] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.681] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:08:03.684] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.684] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.684] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:08:03.689] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.689] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.689] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:08:03.692] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.692] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.693] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:08:03.696] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.696] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.696] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:08:03.699] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.699] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.699] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:08:03.714] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.714] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.715] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:08:03.720] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.720] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.720] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:08:03.729] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.731] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.734] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:08:03.743] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.743] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.744] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:08:03.759] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.759] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.759] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:08:03.764] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.764] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.764] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:08:03.768] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.768] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.768] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:08:03.773] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.773] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.773] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:08:03.777] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.777] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.777] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:08:03.782] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.782] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.782] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:08:03.785] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.785] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:08:03.785] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:58.679] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.680] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.680] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:58.687] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.687] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.687] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:58.691] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.691] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.691] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:58.696] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.696] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.696] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:58.700] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.700] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.700] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:58.704] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.704] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.704] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:58.707] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.707] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.707] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:58.710] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.711] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.711] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:58.714] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.714] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.714] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:58.718] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.718] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.718] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:58.721] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.721] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.721] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:58.724] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.724] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.724] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:58.728] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.728] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.728] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:58.731] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.731] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.731] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:58.734] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.734] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.734] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:58.737] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.737] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.738] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:58.740] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.740] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.740] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:58.743] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.743] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.743] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:58.746] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.746] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.746] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:58.749] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.749] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:58.749] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:59.820] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.820] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.820] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:59.824] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.824] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.824] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:59.827] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.827] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.827] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:59.831] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.831] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.831] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:59.835] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.835] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.836] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:59.839] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.839] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.839] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:59.843] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.843] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.843] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:59.853] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.853] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.854] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:59.858] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.858] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.858] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:59.861] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.862] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.862] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:59.866] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.866] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.866] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:59.869] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.869] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.869] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:59.872] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.872] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.872] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:59.878] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.878] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.878] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:59.882] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.882] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.882] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:59.885] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.885] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.885] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:59.889] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.889] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.889] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:59.893] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.893] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.893] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:59.896] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.896] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.896] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:10:59.904] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.904] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:10:59.904] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:04.968] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:04.968] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:04.968] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:04.994] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:04.994] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:04.994] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:05.001] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.001] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.001] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:05.008] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.008] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.008] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:05.020] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.021] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.021] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:05.027] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.027] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.027] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:05.032] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.032] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.032] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:05.037] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.037] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.038] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:05.044] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.045] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.045] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:05.049] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.049] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.049] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:05.056] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.056] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.056] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:05.063] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.063] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.063] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:05.067] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.067] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.067] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:05.078] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.078] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.078] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:05.081] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.081] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.081] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:05.086] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.086] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.086] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:05.090] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.090] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.090] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:05.095] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.095] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.095] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:05.099] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.099] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.099] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:05.103] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.103] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:05.104] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:07.818] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.818] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.818] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:07.824] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.824] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.824] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:07.829] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.829] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.829] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:07.832] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.833] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.833] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:07.839] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.839] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.839] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:07.843] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.843] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.844] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:07.847] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.847] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.847] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:07.873] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.874] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.874] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:07.881] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.882] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.882] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:07.887] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.887] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.887] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:07.891] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.891] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.891] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:07.895] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.895] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.895] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:07.899] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.900] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.900] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:07.905] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.905] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.905] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:07.909] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.909] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.909] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:07.914] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.914] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.914] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:07.918] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.919] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.919] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:07.923] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.923] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.923] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:07.927] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.927] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.927] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:07.931] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.931] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:07.931] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:09.611] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.611] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.611] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:09.629] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.629] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.629] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:09.635] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.635] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.635] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:09.639] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.639] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.639] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:09.643] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.643] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.643] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:09.647] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.647] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.647] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:09.651] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.651] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.651] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:09.655] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.655] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.655] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:09.658] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.658] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.658] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:09.661] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.661] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.661] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:09.666] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.666] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.666] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:09.670] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.670] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.670] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:09.673] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.673] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.673] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:09.676] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.676] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.676] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:09.680] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.680] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.680] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:09.683] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.684] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.684] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:09.692] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.692] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.692] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:09.696] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.696] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.696] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:09.700] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.701] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.701] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:09.705] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.705] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:09.705] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:39.760] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.761] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.761] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:39.771] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.771] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.771] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:39.777] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.777] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.777] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:39.780] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.780] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.780] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:39.782] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.782] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.782] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:39.785] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.785] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.785] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:39.788] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.788] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.788] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:39.792] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.792] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.792] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:39.796] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.796] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.796] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:39.799] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.799] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.799] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:39.803] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.803] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.803] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:39.806] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.806] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.806] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:39.809] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.809] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.809] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:39.812] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.812] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.812] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:39.814] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.814] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.814] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:39.818] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.819] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.819] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:39.821] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.821] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.821] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:39.824] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.824] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.824] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:39.828] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.828] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.828] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
+[2025-07-25T20:11:39.843] [INFO] default - {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.843] [ERROR] default - == [ exception ] == {"cause":{},"isOperational":true}
+[2025-07-25T20:11:39.843] [ERROR] default - == [ exception ] == undefined template not found: dist/entry.home.html undefined
