@@ -23,17 +23,16 @@ module.exports = {
 
         app.env = env()
 
+        // 加载配置
+        configLoader(app)
         // 加载中间件
         middlewareLoader(app)
-        console.log('middleware done')
         // 加载路由模式
         routerSchemaLoader(app)
         // 加载控制器
         controllerLoader(app)
         // 加载服务
         serviceLoader(app)
-        // 加载配置
-        configLoader(app)
         // 加载扩展
         extendLoader(app)
         // 注册全局中间件
