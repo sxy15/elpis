@@ -8,7 +8,7 @@ const { sep } = path;
  */
 module.exports = app => {
     const routeSchemaPath = path.resolve(app.businessPath, `.${sep}router-schema`)
-    const fileList = glob.sync(`**.js`, { cwd: routeSchemaPath })
+    const fileList = glob.sync('**.js', { cwd: routeSchemaPath })
 
     const routerSchema = {}
 
