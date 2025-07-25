@@ -3,7 +3,7 @@
  * @param {object} app koa 实例 
  */
 
-const md5 = require("md5");
+const md5 = require('md5');
 
 module.exports = (app) => {
     return async (ctx, next) => {
@@ -15,7 +15,7 @@ module.exports = (app) => {
         const { headers } = ctx.request;
         const { s_sign: sSign, s_t: st } = headers
 
-        const signKey = "sxyanfu19921115"
+        const signKey = 'sxyanfu19921115'
         const signature = md5(`${signKey}_${st}`)
         app.logger.info(`[${method} ${path}] signature:`, signature)
 
